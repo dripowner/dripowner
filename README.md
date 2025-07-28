@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/LPkICAaDcR)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dripowner)
