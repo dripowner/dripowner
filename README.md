@@ -24,4 +24,4 @@
 
 ## LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dripowner)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dripowner?theme=radical)
